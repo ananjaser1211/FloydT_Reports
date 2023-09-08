@@ -22,8 +22,8 @@ A clear description of what you expected to happen
 .
 
 **Smartphone (please complete this feature following information part if you want device spesific):**
- - Device: [e.g. Galaxy Note 7 BE]
- - Model: [e.g. N930F]
+ - Device: [e.g. Galaxy Note 9]
+ - Model: [e.g. N960F]
 
 **Origin of Feature**
 - Add feature of origin device brand, device model and (if its possible) firmware link.

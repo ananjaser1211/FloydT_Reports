@@ -1,8 +1,9 @@
-# FloydQ - Exynos8890
+# FloydT - Exynos9810 - OneUI 5.1
 
-**Bug reporting repo for [FloydQ](https://bit.ly/3cEpe0N)**
+**Bug reporting repo for [FloydT](TBD)**
 
-![alt text](https://i.ibb.co/SssNGFz/final-banner.png)
+![FloydT_Banner](https://github.com/ananjaser1211/FloydT_Reports/assets/25624482/8dc986d5-300e-42c1-82c4-30a2b597ec20)
+
 
 ### How to write issues
 
